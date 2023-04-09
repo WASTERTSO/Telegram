@@ -16,21 +16,21 @@
         "OWNER_USERNAME": {
             "description": "your profile username without@!",
             "required": true,
-            "value": ""
+            "value": "ll_TSO_KING_ll"
         },
         "ASSISTANT_ID": {
             "description": "enter I'd of which uh have used to string (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "5944682113"
         },
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "tso chats"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "tso_updates"
         },
         "DATABASE_URL": {
             "description": "Fill database from elephantsql.com",
@@ -39,23 +39,23 @@
         },
         "OWNER_ID": {
             "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
-            "value": ""
+            "value": "5686536025"
         },
         "DEV_USERS": {
             "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "5686536025"
         },
         "SUDO_USERS": {
             "description": "Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-            "value": ""
+            "value": "5686536025"
         },
         "GBAN_LOGS": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": "-1001849373188"
         },
         "MESSAGE_DUMP": {
             "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-            "value": "-100"
+            "value": "-1001849373188"
         },
         "TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
